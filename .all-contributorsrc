@@ -4,6 +4,7 @@
   "files": [
     "CONTRIBUTORS.md"
   ],
+  "linkToUsage": true,
   "commitType": "docs",
   "commitConvention": "angular",
   "contributorsPerLine": 7,
