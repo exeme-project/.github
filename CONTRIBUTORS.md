@@ -2,10 +2,11 @@
 
 # 👤 Contributors
 
-This is the **official list of people who have contributed** to the Exeme Language in some way.
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-<!-- Kindly keep the list sorted by appending your name to the end of the file, and aligning the columns of the table. -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-| Name     | GitHub profile              | Email                                       |
-| -------- | --------------------------- | ------------------------------------------- |
-| *skifli* | <https://github.com/skifli> | <121291719+skifli@users.noreply.github.com> |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
