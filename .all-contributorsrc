@@ -7,5 +7,23 @@
   "linkToUsage": true,
   "commitType": "docs",
   "commitConvention": "angular",
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "skifli",
+      "name": "skifli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121291719?v=4",
+      "profile": "http://skifli.github.io",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "design",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "review"
+      ]
+    }
+  ]
 }
