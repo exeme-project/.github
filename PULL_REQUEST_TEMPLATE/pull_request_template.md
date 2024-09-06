@@ -18,4 +18,4 @@ Please describe in detail how you tested your changes. Include details of your t
 
 ## Screenshots:
 
-If appropriate
+If appropriate.
